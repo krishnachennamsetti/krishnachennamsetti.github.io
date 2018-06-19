@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#What is
+Personal CV site
 
-You can use the [editor on GitHub](https://github.com/krishnachennamsetti/krishnachennamsetti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![alt text](http://i67.tinypic.com/f2k1h1.jpg "preview")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#License:
+Use it freely but please do not republish, distribute or sell "as-is". Please credit the designer and developer when you use it in your project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Credits:
+- <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+- <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
+- <a href="https://w3layouts.com/" target="_blank">W3layouts theme</a>
+- <a href="https://github.com/imdadareeph/" target="_blank">Dev friend</a>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishnachennamsetti/krishnachennamsetti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Misc
+Follow Imdad: <a href="https://github.com/krishnachennamsetti" target="_blank">Git</a>, <a href="https://www.facebook.com/krishna.chennamsetti" target="_blank">Facebook</a>
